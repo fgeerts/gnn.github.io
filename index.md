@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Graph Neural Networks
 
 You can use the [editor on GitHub](https://github.com/fgeerts/gnn.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
